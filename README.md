@@ -1,3 +1,6 @@
+Kendall Porras Fernández
+
+
 En el código el principio de responsabilidad única se implementa ya que en el proyecto cada clase tiene 1 responsabilidad. Usando de ejemplo las clases Libro y Guardar, la clase Libro únicamente tiene las responsabilidades de guardar y devolver datos con sus métodos set y get, que nada más son parte de 1 responsabilidad general que es tener los datos en la clase. Y la clase Guardar solamente tiene la responsabilidad de guardar un libro mientras muestra un mensaje cuando se hace la acción, ninguna otra responsabilidad más.
 
 
